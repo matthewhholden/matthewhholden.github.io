@@ -1,7 +1,7 @@
 ---
 title: "Projecting the performance of conservation interventions"
 collection: publications
-permalink: /publication/Law2017
+permalink: /publication/2017-09-01-Law-2017-Projecting
 excerpt: 'this'
 date: 2017
 venue: 'Biological Conservation'
