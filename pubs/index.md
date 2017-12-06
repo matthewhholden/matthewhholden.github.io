@@ -32,7 +32,7 @@ image:
 
 + **Holden, M.H.**, N Butt, A Chauvenet, M Plein, M Stringer, I Chadès. (2017) Academic conferences urgently need environmental policies. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0296-2). 1, 1211–1212. (preprint)
 
-+ Biggs, D.,  **Holden, M.H.**,  A.R. Braczowski and H.P. Possingham.  (2016). Elephant poaching: Track the impact of Kenya's ivory burn. *Nature*. 534:7606:179-179.
++ Biggs, D.,  **Holden, M.H.**,  A.R. Braczowski and H.P. Possingham.  (2016). Elephant poaching: Track the impact of Kenya's ivory burn. [*Nature*](https://www.nature.com/articles/534179a). 534:7606:179-179.
 
 + **Holden, M.H.**. (2016). Robots vs. Environmental Managers.  [*Decision Point*](http://decision-point.com.au/article/robots-vs-environmental-managers/). 95:8.
 
