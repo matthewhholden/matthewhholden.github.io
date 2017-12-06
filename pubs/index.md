@@ -11,7 +11,7 @@ image:
 
 ## Publications (Peer-reviewed)
 
-+ Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. 2017. Projecting the performance of conservation interventions. *Biological Conservation*. 215:142-151.
++ Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. (2017). Projecting the performance of conservation interventions. *Biological Conservation*. 215:142-151.
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. *Conservation Letters*.
 
