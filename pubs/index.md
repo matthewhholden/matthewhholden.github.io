@@ -15,7 +15,7 @@ image:
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. [*Conservation Letters*](http://onlinelibrary.wiley.com/doi/10.1111/conl.12421/full).
 
-+ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. 
++ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. [PDF][1]
 
 + **Holden, M.H.**  and Ellner, S.P. (2016). Human judgment vs. quantitative models for the management of ecological resources. [*Ecological Applications*](http://onlinelibrary.wiley.com/doi/10.1890/15-1295/full). 26:5:1553-1565. 
 
@@ -38,3 +38,5 @@ image:
 
 + **Holden, M.H.**. (2016). EcoLogic: Can automated algorithms do better than humans in conservation games.  [*Australasian Science*](http://www.australasianscience.com.au/article/issue-julyaugust-2016/%E2%80%9Crobots%E2%80%9D-vs-environmental-managers.html).
 
+
+[1]:{{ https://matthewhholden.github.io}}/download/Holden_McDonaldMadden_2017_Anthropogenic_Allee_Effect_JTB.pdf
