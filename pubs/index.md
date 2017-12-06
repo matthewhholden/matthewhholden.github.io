@@ -41,7 +41,5 @@ image:
 
 + M. H. Holden. (2016). Robots vs. Environmental Managers.  Decision Point. 95:8.
 
-M. H. Holden. (2016). EcoLogic: Can automated algorithms do better than humans in conservation games.  Australasian Science.
-
-In parenthesis is the text used.
++ M. H. Holden. (2016). EcoLogic: Can automated algorithms do better than humans in conservation games.  Australasian Science.
 
