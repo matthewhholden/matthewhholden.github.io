@@ -11,6 +11,8 @@ image:
 
 ## Publications (Peer-reviewed)
 
++ Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. 2017. Projecting the performance of conservation interventions. *Biological Conservation*. 215:142-151.
+
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. *Conservation Letters*.
 
 + **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. *Journal of Theoretical Biology*. 429:170-180. 
