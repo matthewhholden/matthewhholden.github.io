@@ -9,13 +9,6 @@ image:
   creditlink: 
 ---
 
-## Education
-
-### Cornell University, Ithaca, New York
-
-* Ph.D. Applied Mathematics, 2011-2016
-
-
 ## Publications (Peer-reviewed)
 
 + Holden, M.H. and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. Conservation Letters.
