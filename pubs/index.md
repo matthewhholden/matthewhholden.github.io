@@ -15,7 +15,7 @@ image:
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. *Conservation Letters*.
 
-+ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. *Journal of Theoretical Biology*. 429:170-180. 
++ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. 
 
 + **Holden, M.H.**  and Ellner, S.P. (2016). Human judgment vs. quantitative models for the management of ecological resources. *Ecological Applications*. 26:5:1553-1565. 
 
