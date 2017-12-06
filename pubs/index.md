@@ -9,7 +9,7 @@ image:
   creditlink: 
 ---
 
-## Publications (Peer-reviewed)
+##  Publications (Peer-reviewed)
 
 + Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. (2017). Projecting the performance of conservation interventions. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320717305219). 215:142-151.
 
@@ -28,7 +28,7 @@ image:
 + **Holden, M.H.**, Ellner, S.P., Lee, D.-H., Nyrop, J.P., and Sanderson, J.P. (2012). Designing an effective trap cropping strategy: the effects of attraction, retention and plant spatial distribution. [*Journal of Applied Ecology*](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2012.02137.x/full). 49:3:715-722. 
 
 
-## Other Publications 
+##  Other Publications 
 
 + **Holden, M.H.**, N Butt, A Chauvenet, M Plein, M Stringer, I Chadès. (2017) Academic conferences urgently need environmental policies. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0296-2). 1, 1211–1212. (preprint)
 
