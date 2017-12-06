@@ -18,7 +18,7 @@ image:
 
 ## Publications (Peer-reviewed)
 
-+ Holden, M.H. and McDonald‐Madden, E., 2017. Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. Conservation Letters.
++ Holden, M.H. and McDonald‐Madden, E., (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. Conservation Letters.
 
 + Holden, M.H.  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. Journal of Theoretical Biology. 429:170-180. (preprint)
 
