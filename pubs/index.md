@@ -11,9 +11,11 @@ image:
 
 ##  Publications (Peer-reviewed)
 
-+ Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. (2017). Projecting the performance of conservation interventions. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320717305219). 215:142-151.
++ Biggs, D.,  **Holden, M.H.**,  Braczowski, A.R., Cook, C.N., Milner-Gulland, E.J., Phelps, J., Scholes, R.J., Smith, R.J., Underwood, F.M., Adams, V.M., Allan, J., Brink, H., Cooney, R., Gao, Y., Hutton, J., Macdonald-Madden, E., Maron, M., Redford, K.H., Sutherland, W.J. and Possingham, H.P. (2017). Breaking the deadlock on ivory. [*Science*](http://science.sciencemag.org/content/358/6369/1378). 358:6369:1378-1381. 
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. [*Conservation Letters*](http://onlinelibrary.wiley.com/doi/10.1111/conl.12421/full).
+
++ Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. (2017). Projecting the performance of conservation interventions. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320717305219). 215:142-151.
 
 + **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. [PDF][1]
 
