@@ -11,6 +11,8 @@ image:
 
 ##  Publications (Peer-reviewed)
 
++ McGowan J., Bode M., **Holden, M.H.**, Davis K., Krueck N., Beger M., Yates K. & Possingham, H.P. (2018). Ocean zoning within a sparing vs. sharing framework. [*Theoretical Ecology*](http://rdcu.be/ECOy).
+
 + Biggs, D.,  **Holden, M.H.**,  Braczowski, A.R., Cook, C.N., Milner-Gulland, E.J., Phelps, J., Scholes, R.J., Smith, R.J., Underwood, F.M., Adams, V.M., Allan, J., Brink, H., Cooney, R., Gao, Y., Hutton, J., Macdonald-Madden, E., Maron, M., Redford, K.H., Sutherland, W.J. and Possingham, H.P. (2017). Breaking the deadlock on ivory. [*Science*](http://science.sciencemag.org/content/358/6369/1378). 358:6369:1378-1381. 
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. [*Conservation Letters*](http://onlinelibrary.wiley.com/doi/10.1111/conl.12421/full).
