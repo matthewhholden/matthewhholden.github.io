@@ -11,6 +11,10 @@ image:
 
 ##  Publications (Peer-reviewed)
 
++ Baker, C.M., **Holden, M.H.**, Plein, M., McCarthy, M.A. and Possingham, H.P. (2018). Informing network management using fuzzy cognitive maps. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320718301368), 224, pp.122-128.
+
++ Braczkowski, A., **Holden, M.H.**, O'Bryan, C., Choi, C.Y., Gan, X., Beesley, N., Gao, Y., Allan, J., Tyrrell, P., Stiles, D., Brehony, P. Meney, R., Brink, H., Takashina, N., Lin, M., Lin, H., Rust, N., Salmo, S. G., Watson, J. E., Kahumbu, P., Maron, M., Possingham, H. P. and Biggs, D. (2018). Reach and messages of the world's largest ivory burn. [*Conservation Biology*](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13097).
+
 + McGowan, J., Bode M., **Holden, M.H.**, Davis, K., Krueck, N., Beger, M., Yates, K., and Possingham, H.P. (2018). Ocean zoning within a sparing vs. sharing framework. [*Theoretical Ecology*](http://rdcu.be/ECOy).
 
 + Biggs, D.,  **Holden, M.H.**,  Braczowski, A.R., Cook, C.N., Milner-Gulland, E.J., Phelps, J., Scholes, R.J., Smith, R.J., Underwood, F.M., Adams, V.M., Allan, J., Brink, H., Cooney, R., Gao, Y., Hutton, J., Macdonald-Madden, E., Maron, M., Redford, K.H., Sutherland, W.J. and Possingham, H.P. (2017). Breaking the deadlock on ivory. [*Science*](http://science.sciencemag.org/content/358/6369/1378). 358:6369:1378-1381. 
