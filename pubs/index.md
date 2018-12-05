@@ -10,8 +10,11 @@ image:
 ---
 
 ##  Publications (Peer-reviewed)
++**Holden, M.H.**, Biggs, D., Brink, H., Bal, P., Rhodes, J., Macdonald-Madden, E. (2017). Increase anti-poaching law-enforcement or decrease demand for wildlife products? A framework to guide strategic conservation investments. [*Conservation Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12618)
 
 + Baker, C.M., **Holden, M.H.**, Plein, M., McCarthy, M.A. and Possingham, H.P. (2018). Informing network management using fuzzy cognitive maps. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320718301368), 224, pp.122-128.
+
++Tulloch, A.I., Auerbach, N., Avery-Gomm, S., Bayraktarov, E., Butt, N., Dickman, C.R., Ehmke, G., Fisher, D.O., Grantham, H., **Holden, M.H.** and Lavery, T.H., 2018. A decision tree for assessing the risks and benefits of publishing biodiversity data. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-018-0608-1) Evol, 2, pp.1209-1217.
 
 + Braczkowski, A., **Holden, M.H.**, O'Bryan, C., Choi, C.Y., Gan, X., Beesley, N., Gao, Y., Allan, J., Tyrrell, P., Stiles, D., Brehony, P. Meney, R., Brink, H., Takashina, N., Lin, M., Lin, H., Rust, N., Salmo, S. G., Watson, J. E., Kahumbu, P., Maron, M., Possingham, H. P. and Biggs, D. (2018). Reach and messages of the world's largest ivory burn. [*Conservation Biology*](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13097).
 
