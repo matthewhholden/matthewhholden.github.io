@@ -9,12 +9,19 @@ image:
   creditlink: 
 ---
 
-##  Publications (Peer-reviewed)
-+ **Holden, M.H.**, Biggs, D., Brink, H., Bal, P., Rhodes, J., Macdonald-Madden, E. (2017). Increase anti-poaching law-enforcement or decrease demand for wildlife products? A framework to guide strategic conservation investments. [*Conservation Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12618)
+##  Selected Publications (Peer-reviewed)
+
++	Adams, MP, Sisson, SA, Helmstedt, KJ, Baker, CM, **Holden, MH**, Plein, M, Holloway, J, Mengersen, KL & McDonald‐Madden, E, (2020). Informing management decisions for ecological networks, using dynamic models calibrated to noisy time‐series data. [*Ecology Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13465), 23:4:607-619
+
++	Mills, M, Bode, Mascia, M, Weeks, R, Gelchich, S, Dudley, N, Govan, H, Archibald, C, Romero, C, **Holden, MH**, Biggs, D, Possingham, H. (2019). How conservation initiatives go to scale. [*Nature Sustainability*](https://www.nature.com/articles/s41893-019-0384-1). 
+
++	Briscoe, N.J., Elith, J, Salguero‐Gómez, R, Lahoz‐Monfort, JJ, Camac, JS, Giljohann, KM, **Holden, MH**, Hradsky, BA, Kearney, MR, McMahon, SM, Phillips, BL, Regan, TR, Rhodes, JR, Vesk, PA, Wintle, B, Yen, JDL, & Guillera-Arroita, G. (2019). Forecasting species range dynamics with process‐explicit models: matching methods to applications. [*Ecology letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13348).  
+
++	O'Bryan, CJ, **Holden, MH**, & Watson, JE. (2019). The mesoscavenger release hypothesis and implications for ecosystem and human well‐being. [*Ecology letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13288).  
+
++ **Holden, M.H.**, Biggs, D., Brink, H., Bal, P., Rhodes, J., Macdonald-Madden, E. (2019). Increase anti-poaching law-enforcement or decrease demand for wildlife products? A framework to guide strategic conservation investments. [*Conservation Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12618)
 
 + Baker, C.M., **Holden, M.H.**, Plein, M., McCarthy, M.A. and Possingham, H.P. (2018). Informing network management using fuzzy cognitive maps. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320718301368), 224, pp.122-128.
-
-+ Tulloch, A.I., Auerbach, N., Avery-Gomm, S., Bayraktarov, E., Butt, N., Dickman, C.R., Ehmke, G., Fisher, D.O., Grantham, H., **Holden, M.H.** and Lavery, T.H., 2018. A decision tree for assessing the risks and benefits of publishing biodiversity data. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-018-0608-1) Evol, 2, pp.1209-1217.
 
 + Braczkowski, A., **Holden, M.H.**, O'Bryan, C., Choi, C.Y., Gan, X., Beesley, N., Gao, Y., Allan, J., Tyrrell, P., Stiles, D., Brehony, P. Meney, R., Brink, H., Takashina, N., Lin, M., Lin, H., Rust, N., Salmo, S. G., Watson, J. E., Kahumbu, P., Maron, M., Possingham, H. P. and Biggs, D. (2018). Reach and messages of the world's largest ivory burn. [*Conservation Biology*](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13097).
 
