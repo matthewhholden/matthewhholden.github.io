@@ -12,8 +12,10 @@ I am an ARC DECRA fellow in mathematics at the University of Queensland, affilia
 
 I completed my Ph.D. in Applied Mathematics at Cornell University, advised by Stephen Ellner, where I worked on the optimal management of invasive species, agricultural pests, and fisheries.  
 
+<b>Bio-economic modelling: Projecting the environmental effects of humans interacting with each other and nature</b>
+
 <b>Poaching and Illegal Wildlife Trade</b>
-Ordinary differential equation models of harversters driving 
+Illegal harvest and trade of wildlife products are ideal case studies for studying social-ecological systems. Even the simplest two dimensional systems of ordinary differential equation models of harverst can produce a rich set of population dynamics when accounting for the motivations of individual harvesters and traders. Conservation scientists have started using these models to inform policy to protect species against poaching and illegal trade. Models with specific functional forms can produce dramatic bifurcations, with small changes in parameters or initial conditions driving healthy populations extinct. Yet, for these models, the mathematical rules that govern when different types of dynamics are possible are poorly undertstood. This can be disasterous, as it can be hard to determine whether complicated dynamics produced by such models are simply the result of numerical error, coding bugs, or are genuinely the mechanistic driver of how populations change through time. One of my on-going lines of research is to develop rigorous mathematical descriptions of population dynamics of harvested species within much broader classes of mathematical models. 
 
 <b>Fisheries Management and Marine Reserves</b>
 
