@@ -2,7 +2,7 @@
 layout: page
 title: Research
 tags: [vita, cv]
-margin: 50px;
+margin: 50px
 modified: 2014-08-08T20:53:07.573882-04:00
 image:
   feature: cover-vita.png
