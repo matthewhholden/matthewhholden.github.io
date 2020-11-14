@@ -1,12 +1,10 @@
 ---
+layout: page
 title: Research
+tags: [vita, cv]
 author_profile: true
-margin: 50px
+margin: 100px
 modified: 2014-08-08T20:53:07.573882-04:00
-image:
-  feature: cover-vita.png
-  credit: 
-  creditlink: 
 ---
 
 
