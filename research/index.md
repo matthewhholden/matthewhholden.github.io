@@ -7,7 +7,6 @@ margin: 100px
 modified: 2014-08-08T20:53:07.573882-04:00
 ---
 
-
 <b><i>Poaching and Illegal Wildlife Trade</i></b>
 
 Even the simplest ODE models of harvest can produce a rich set of population dynamics when we account for the motivations of humans hunting for and trading wildlife products. Conservation scientists have started using these models to inform policy to protect species against illegal harvest. We've shown that models with specific functional forms can produce dramatic bifurcations, with small changes in parameters or initial conditions driving healthy populations extinct. Yet, for these models, we have very few general rules for when we expect to see different types of mathematical behavior. This can be disastrous, as it is hard to determine whether the projected outcomes from such models are simply the result of numerical error, coding bugs, arbitrary model assumptions, or are a robust and general accross a wide set of harvested species. One of my on-going lines of research is to develop rigorous mathematical descriptions of population dynamics of harvested species within a broad class of mathematical models. 
