@@ -20,4 +20,5 @@ More than 99.8% of fisheries are assessed using single-species models. Since hum
 I regularly apply mathematical and statistical theory to improve fisheries management in collaboration with the Queensland Department of Agriculture and Fisheries (DAF), and the Australian Fisheries Management Authority (AFMA). For example I performed the first stock assessment of coral trout, a collection of species (<i>Plectropomus leopardus</i>, <i>P. maculatus</i>, <i>P. laevis</i>), in the Torres Strait. Most of my fisheries management work focusses on methods for data-poor fisheries where the status of the fish stock is highly uncertain. 
 
 <b><i>How to best feed the world?</i></b>
+
 Can we sustainably feed a rapidly growing global population? How do we eliminate hunger with the least environmental harm? Improving the management of harvested populations can play its part, but we also need to better manage agriculture and livestock production. I am broadly interested in projects that tackle these questions using system dynamics, optimisation, and data. 
