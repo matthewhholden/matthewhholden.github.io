@@ -10,8 +10,9 @@ image:
 ---
 
 ##  Selected Publications (Peer-reviewed)
++ **Holden, MH**, Yen, JD, Briscoe, NJ, Lahoz‐Monfort, JJ, Salguero‐Gómez, R, Vesk, PA, Guillera‐Arroita, G (2020). Assessing the accuracy of density‐independent demographic models for predicting species ranges. [*Ecography*](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05250).
 
-+	Adams, MP, Sisson, SA, Helmstedt, KJ, Baker, CM, **Holden, MH**, Plein, M, Holloway, J, Mengersen, KL & McDonald‐Madden, E, (2020). Informing management decisions for ecological networks, using dynamic models calibrated to noisy time‐series data. [*Ecology Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13465), 23:4:607-619
++	Adams, MP, Sisson, SA, Helmstedt, KJ, Baker, CM, **Holden, MH**, Plein, M, Holloway, J, Mengersen, KL & McDonald‐Madden, E (2020). Informing management decisions for ecological networks, using dynamic models calibrated to noisy time‐series data. [*Ecology Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13465), 23:4:607-619.
 
 +	Mills, M, Bode, Mascia, M, Weeks, R, Gelchich, S, Dudley, N, Govan, H, Archibald, C, Romero, C, **Holden, MH**, Biggs, D, Possingham, H. (2019). How conservation initiatives go to scale. [*Nature Sustainability*](https://www.nature.com/articles/s41893-019-0384-1). 
 
