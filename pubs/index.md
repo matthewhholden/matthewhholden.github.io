@@ -16,19 +16,19 @@ image:
 
 +	Mills, M, Bode, Mascia, M, Weeks, R, Gelchich, S, Dudley, N, Govan, H, Archibald, C, Romero, C, **Holden, MH**, Biggs, D, Possingham, H. (2019). How conservation initiatives go to scale. [*Nature Sustainability*](https://www.nature.com/articles/s41893-019-0384-1). 
 
-+	Briscoe, N.J., Elith, J, Salguero‐Gómez, R, Lahoz‐Monfort, JJ, Camac, JS, Giljohann, KM, **Holden, MH**, Hradsky, BA, Kearney, MR, McMahon, SM, Phillips, BL, Regan, TR, Rhodes, JR, Vesk, PA, Wintle, B, Yen, JDL, & Guillera-Arroita, G. (2019). Forecasting species range dynamics with process‐explicit models: matching methods to applications. [*Ecology letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13348).  
++	Briscoe, NJ, Elith, J, Salguero‐Gómez, R, Lahoz‐Monfort, JJ, Camac, JS, Giljohann, KM, **Holden, MH**, Hradsky, BA, Kearney, MR, McMahon, SM, Phillips, BL, Regan, TR, Rhodes, JR, Vesk, PA, Wintle, B, Yen, JDL, & Guillera-Arroita, G. (2019). Forecasting species range dynamics with process‐explicit models: matching methods to applications. [*Ecology letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13348).  
 
 +	O'Bryan, CJ, **Holden, MH**, & Watson, JE. (2019). The mesoscavenger release hypothesis and implications for ecosystem and human well‐being. [*Ecology letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13288).  
 
-+ **Holden, M.H.**, Biggs, D., Brink, H., Bal, P., Rhodes, J., Macdonald-Madden, E. (2019). Increase anti-poaching law-enforcement or decrease demand for wildlife products? A framework to guide strategic conservation investments. [*Conservation Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12618)
++ **Holden, MH**, Biggs, D, Brink, H, Bal, P, Rhodes, J, Macdonald-Madden, E. (2019). Increase anti-poaching law-enforcement or decrease demand for wildlife products? A framework to guide strategic conservation investments. [*Conservation Letters*](https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12618)
 
-+ Baker, C.M., **Holden, M.H.**, Plein, M., McCarthy, M.A. and Possingham, H.P. (2018). Informing network management using fuzzy cognitive maps. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320718301368), 224, pp.122-128.
++ Baker, CM, **Holden, MH**, Plein, M, McCarthy, MA, Possingham, HP (2018). Informing network management using fuzzy cognitive maps. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320718301368), 224, pp.122-128.
 
-+ Braczkowski, A., **Holden, M.H.**, O'Bryan, C., Choi, C.Y., Gan, X., Beesley, N., Gao, Y., Allan, J., Tyrrell, P., Stiles, D., Brehony, P. Meney, R., Brink, H., Takashina, N., Lin, M., Lin, H., Rust, N., Salmo, S. G., Watson, J. E., Kahumbu, P., Maron, M., Possingham, H. P. and Biggs, D. (2018). Reach and messages of the world's largest ivory burn. [*Conservation Biology*](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13097).
++ Braczkowski, A, **Holden, MH**, O'Bryan, C, Choi, CY, Gan, X, Beesley, N, Gao, Y, Allan, J, Tyrrell, P, Stiles, D, Brehony, P, Meney, R, Brink, H, Takashina, N, Lin, M, Lin, H, Rust, N, Salmo, SG, Watson, JE, Kahumbu, P, Maron, M, Possingham, HP, Biggs, D. (2018). Reach and messages of the world's largest ivory burn. [*Conservation Biology*](https://onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13097).
 
-+ McGowan, J., Bode M., **Holden, M.H.**, Davis, K., Krueck, N., Beger, M., Yates, K., and Possingham, H.P. (2018). Ocean zoning within a sparing vs. sharing framework. [*Theoretical Ecology*](http://rdcu.be/ECOy).
++ McGowan, J, Bode M, **Holden, MH**, Davis, K, Krueck, N, Beger, M, Yates, K, Possingham, HP. (2018). Ocean zoning within a sparing vs. sharing framework. [*Theoretical Ecology*](http://rdcu.be/ECOy).
 
-+ Biggs, D.,  **Holden, M.H.**,  Braczowski, A.R., Cook, C.N., Milner-Gulland, E.J., Phelps, J., Scholes, R.J., Smith, R.J., Underwood, F.M., Adams, V.M., Allan, J., Brink, H., Cooney, R., Gao, Y., Hutton, J., Macdonald-Madden, E., Maron, M., Redford, K.H., Sutherland, W.J. and Possingham, H.P. (2017). Breaking the deadlock on ivory. [*Science*](http://science.sciencemag.org/content/358/6369/1378). 358:6369:1378-1381. 
++ Biggs, D,  **Holden, MH**,  Braczowski, AR, Cook, CN, Milner-Gulland, EJ, Phelps, J, Scholes, RJ, Smith, RJ, Underwood, FM, Adams, VM, Allan, J, Brink, H, Cooney, R, Gao, Y, Hutton, J, Macdonald-Madden, E, Maron, M, Redford, KH, Sutherland, WJ, Possingham, HP. (2017). Breaking the deadlock on ivory. [*Science*](http://science.sciencemag.org/content/358/6369/1378). 358:6369:1378-1381. 
 
 + **Holden, M.H.** and McDonald‐Madden, E. (2017). Conservation from the Grave: Human Burials to Fund the Conservation of Threatened Species. [*Conservation Letters*](http://onlinelibrary.wiley.com/doi/10.1111/conl.12421/full).
 
