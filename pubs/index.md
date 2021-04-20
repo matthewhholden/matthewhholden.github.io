@@ -10,7 +10,7 @@ image:
 ---
 
 ##  Selected Publications (Peer-reviewed)
-+ **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See open access preprint [here](http://128.84.4.34/abs/2102.11664)
++ **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See free open access preprint [here](https://arxiv.org/ftp/arxiv/papers/2102/2102.11664.pdf)
 
 + **Holden, MH**, Yen, JD, Briscoe, NJ, Lahoz‐Monfort, JJ, Salguero‐Gómez, R, Vesk, PA, Guillera‐Arroita, G (2020). Assessing the accuracy of density‐independent demographic models for predicting species ranges. [*Ecography*](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05250).
 
@@ -36,9 +36,9 @@ image:
 
 + Law, E.A., Ferraro, P.J., Arcese, P., Bryan, B.A., Davis, K., Gordon, A., **Holden, M.H.**, Iacona, G., Martinez, R.M., McAlpine, C.A., Rhodes, J.R., Szej, J.S., and Wilson, K.A. (2017). Projecting the performance of conservation interventions. [*Biological Conservation*](https://www.sciencedirect.com/science/article/pii/S0006320717305219). 215:142-151.
 
-+ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. [PDF][1]
++ **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. See open access preprint [here](https://arxiv.org/pdf/1703.06736.pdf)
 
-+ **Holden, M.H.**  and Ellner, S.P. (2016). Human judgment vs. quantitative models for the management of ecological resources. [*Ecological Applications*](http://onlinelibrary.wiley.com/doi/10.1890/15-1295/full). 26:5:1553-1565. 
++ **Holden, M.H.**  and Ellner, S.P. (2016). Human judgment vs. quantitative models for the management of ecological resources. [*Ecological Applications*](http://onlinelibrary.wiley.com/doi/10.1890/15-1295/full). 26:5:1553-1565. See open access preprint [here](https://arxiv.org/pdf/1603.04518.pdf)
 
 + **Holden, M.H.**, Nyrop, J.P. and Ellner, S.P. (2016). The Economic benefit of time-varying surveillance effort for invasive species management. [*Journal of Applied Ecology*](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12617/abstract?platform=hootsuite). 53:712–721.
 
@@ -58,6 +58,3 @@ image:
 + **Holden, M.H.**. (2016). Robots vs. Environmental Managers.  [*Decision Point*](http://decision-point.com.au/article/robots-vs-environmental-managers/). 95:8.
 
 + **Holden, M.H.**. (2016). EcoLogic: Can automated algorithms do better than humans in conservation games.  [*Australasian Science*](http://www.australasianscience.com.au/article/issue-julyaugust-2016/%E2%80%9Crobots%E2%80%9D-vs-environmental-managers.html).
-
-
-[1]:{{ https://matthewhholden.github.io}}/download/Holden_McDonaldMadden_2017_Anthropogenic_Allee_Effect_JTB.pdf
