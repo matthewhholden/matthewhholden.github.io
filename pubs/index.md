@@ -10,7 +10,7 @@ image:
 ---
 
 ##  Selected Publications (Peer-reviewed)
-+ **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400).[Open access preprint](http://128.84.4.34/abs/2102.11664)
++ **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See open access preprint [here](http://128.84.4.34/abs/2102.11664)
 
 + **Holden, MH**, Yen, JD, Briscoe, NJ, Lahoz‐Monfort, JJ, Salguero‐Gómez, R, Vesk, PA, Guillera‐Arroita, G (2020). Assessing the accuracy of density‐independent demographic models for predicting species ranges. [*Ecography*](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05250).
 
