@@ -10,6 +10,16 @@ image:
 ---
 
 ##  Selected Publications (Peer-reviewed)
++ Filar, JA, **Holden, MH**, Mendiolar, M, Streipert, SH (2024). Overcoming the impossibility of age-balanced harvest. [*Mathematical Biosciences*](https://doi.org/10.1016/j.mbs.2023.109111), 367, 109111.
+
++ Rogers, AM, Yong, RQY, **Holden, MH** (2023). The house of a thousand species: The untapped potential of comprehensive biodiversity censuses of urban properties. [*Ecology*](https://doi.org/10.1002/ecy.4225), e4225.
+
++ Erm, P, Balmford, A, & **Holden, MH** (2023). The biodiversity benefits of marine protected areas in well-regulated fisheries. [*Biological Conservation*](https://doi.org/10.1016/j.biocon.2023.110049), 284, 110049.
+
++ Castonguay, AC, Polasky, S, **Holden, MH**, Herrero, M, Chang, J, Mason-D’Croz, D, Godde, C, Lee, K, Bryan, BA, Gerber, J, Game, ET, McDonald-Madden, E (2023). MOO-GAPS: A multi-objective optimization model for global animal production and sustainability. [*Journal of Cleaner Production*](https://doi.org/10.1016/j.jclepro.2023.136440), 396, 136440.
+
++ Castonguay, A. C., Polasky, S., H. Holden, M., Herrero, M., Mason-D’Croz, D., Godde, C., ... & McDonald-Madden, E. (2023). Navigating sustainability trade-offs in global beef production. Nature Sustainability, 6(3), 284-294. 
+  
 + **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See free open access preprint [here](https://arxiv.org/ftp/arxiv/papers/2102/2102.11664.pdf)
 
 + **Holden, MH**, Yen, JD, Briscoe, NJ, Lahoz‐Monfort, JJ, Salguero‐Gómez, R, Vesk, PA, Guillera‐Arroita, G (2020). Assessing the accuracy of density‐independent demographic models for predicting species ranges. [*Ecography*](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05250).
