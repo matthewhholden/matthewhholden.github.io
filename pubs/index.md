@@ -9,16 +9,20 @@ image:
   creditlink: 
 ---
 
-##  Selected Publications (Peer-reviewed)
+##  Selected Publications (For a complete list see my [*Google Scholar profile*](https://scholar.google.com/citations?hl=en&user=ZxTK7cAAAAAJ))
 + Filar, JA, **Holden, MH**, Mendiolar, M, Streipert, SH (2024). Overcoming the impossibility of age-balanced harvest. [*Mathematical Biosciences*](https://doi.org/10.1016/j.mbs.2023.109111), 367, 109111.
 
 + Rogers, AM, Yong, RQY, **Holden, MH** (2023). The house of a thousand species: The untapped potential of comprehensive biodiversity censuses of urban properties. [*Ecology*](https://doi.org/10.1002/ecy.4225), e4225.
 
 + Erm, P, Balmford, A, & **Holden, MH** (2023). The biodiversity benefits of marine protected areas in well-regulated fisheries. [*Biological Conservation*](https://doi.org/10.1016/j.biocon.2023.110049), 284, 110049.
 
++ Castonguay, AC, Polasky, S, **Holden, MH**, Herrero, M, Mason-D’Croz, D, Godde, C, J Chang, J Gerber, G B Witt, ET Game, BA Bryan, B Wintle, K Lee, P Bal, McDonald-Madden, E. (2023). Navigating sustainability trade-offs in global beef production. [*Nature Sustainability*](https://doi.org/10.1038/s41893-022-01017-0), 6(3), 284-294. 
+
 + Castonguay, AC, Polasky, S, **Holden, MH**, Herrero, M, Chang, J, Mason-D’Croz, D, Godde, C, Lee, K, Bryan, BA, Gerber, J, Game, ET, McDonald-Madden, E (2023). MOO-GAPS: A multi-objective optimization model for global animal production and sustainability. [*Journal of Cleaner Production*](https://doi.org/10.1016/j.jclepro.2023.136440), 396, 136440.
 
-+ Castonguay, A. C., Polasky, S., H. Holden, M., Herrero, M., Mason-D’Croz, D., Godde, C., ... & McDonald-Madden, E. (2023). Navigating sustainability trade-offs in global beef production. Nature Sustainability, 6(3), 284-294. 
++Plein, M, O'Brien, KR, **Holden, MH**, Adams, MP, Baker, CM, Bean, NG, Sisson, SA, Bode, M, Mengersen, KL, McDonald‐Madden, E (2022). Modeling total predation to avoid perverse outcomes from cat control in a data‐poor island ecosystem. [*Conservation Biology*](), 36(5), e13916.
+
++O’Bryan, CJ, Patton, NR, Hone, J, Lewis, JS, Berdejo‐Espinola, V, Risch, DR, **Holden, MH**, McDonald‐Madden, E (2022). Unrecognized threat to global soil carbon by a widespread invasive species. [*Global change biology*](https://doi.org/10.1111/gcb.15769), 28(3), 877-882.
   
 + **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See free open access preprint [here](https://arxiv.org/ftp/arxiv/papers/2102/2102.11664.pdf)
 
@@ -48,6 +52,10 @@ image:
 
 + **Holden, M.H.**  and McDonald-Madden, E. (2017). High prices for rare species can drive large populations extinct: the anthropogenic Allee effect revisited. [*Journal of Theoretical Biology*](http://www.sciencedirect.com/science/article/pii/S0022519317302916). 429:170-180. See open access preprint [here](https://arxiv.org/pdf/1703.06736.pdf)
 
++ **Holden, M.H.**, N Butt, A Chauvenet, M Plein, M Stringer, I Chadès. (2017) Academic conferences urgently need environmental policies. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0296-2). 1, 1211–1212. [(preprint)](https://matthewhholden.github.io/pubs/Preprint_Global_Conference_Sustainability_Policies.pdf)
+
++ Biggs, D.,  **Holden, M.H.**,  A.R. Braczowski and H.P. Possingham.  (2016). Elephant poaching: Track the impact of Kenya's ivory burn. [*Nature*](https://www.nature.com/articles/534179a). 534:7606:179-179.
+
 + **Holden, M.H.**  and Ellner, S.P. (2016). Human judgment vs. quantitative models for the management of ecological resources. [*Ecological Applications*](http://onlinelibrary.wiley.com/doi/10.1890/15-1295/full). 26:5:1553-1565. See open access preprint [here](https://arxiv.org/pdf/1603.04518.pdf)
 
 + **Holden, M.H.**, Nyrop, J.P. and Ellner, S.P. (2016). The Economic benefit of time-varying surveillance effort for invasive species management. [*Journal of Applied Ecology*](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12617/abstract?platform=hootsuite). 53:712–721.
@@ -59,11 +67,9 @@ image:
 + **Holden, M.H.**, Ellner, S.P., Lee, D.-H., Nyrop, J.P., and Sanderson, J.P. (2012). Designing an effective trap cropping strategy: the effects of attraction, retention and plant spatial distribution. [*Journal of Applied Ecology*](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2012.02137.x/full). 49:3:715-722. 
 
 
-##  Other Publications 
 
-+ **Holden, M.H.**, N Butt, A Chauvenet, M Plein, M Stringer, I Chadès. (2017) Academic conferences urgently need environmental policies. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0296-2). 1, 1211–1212. [(preprint)](https://matthewhholden.github.io/pubs/Preprint_Global_Conference_Sustainability_Policies.pdf)
-
-+ Biggs, D.,  **Holden, M.H.**,  A.R. Braczowski and H.P. Possingham.  (2016). Elephant poaching: Track the impact of Kenya's ivory burn. [*Nature*](https://www.nature.com/articles/534179a). 534:7606:179-179.
+##  Some selected newspaper articles and other popular science pieces written by me
++ We thought we’d find 200 species living in our house and yard. We were very wrong. [*The Conversation*](https://theconversation.com/we-thought-wed-find-200-species-living-in-our-house-and-yard-we-were-very-wrong-217082). 2023.
 
 + **Holden, M.H.**. (2016). Robots vs. Environmental Managers.  [*Decision Point*](http://decision-point.com.au/article/robots-vs-environmental-managers/). 95:8.
 
