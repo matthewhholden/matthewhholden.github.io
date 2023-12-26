@@ -20,9 +20,9 @@ image:
 
 + Castonguay, AC, Polasky, S, **Holden, MH**, Herrero, M, Chang, J, Mason-D’Croz, D, Godde, C, Lee, K, Bryan, BA, Gerber, J, Game, ET, McDonald-Madden, E (2023). MOO-GAPS: A multi-objective optimization model for global animal production and sustainability. [*Journal of Cleaner Production*](https://doi.org/10.1016/j.jclepro.2023.136440), 396, 136440.
 
-+Plein, M, O'Brien, KR, **Holden, MH**, Adams, MP, Baker, CM, Bean, NG, Sisson, SA, Bode, M, Mengersen, KL, McDonald‐Madden, E (2022). Modeling total predation to avoid perverse outcomes from cat control in a data‐poor island ecosystem. [*Conservation Biology*](), 36(5), e13916.
++ Plein, M, O'Brien, KR, **Holden, MH**, Adams, MP, Baker, CM, Bean, NG, Sisson, SA, Bode, M, Mengersen, KL, McDonald‐Madden, E (2022). Modeling total predation to avoid perverse outcomes from cat control in a data‐poor island ecosystem. [*Conservation Biology*](), 36(5), e13916.
 
-+O’Bryan, CJ, Patton, NR, Hone, J, Lewis, JS, Berdejo‐Espinola, V, Risch, DR, **Holden, MH**, McDonald‐Madden, E (2022). Unrecognized threat to global soil carbon by a widespread invasive species. [*Global change biology*](https://doi.org/10.1111/gcb.15769), 28(3), 877-882.
++ O’Bryan, CJ, Patton, NR, Hone, J, Lewis, JS, Berdejo‐Espinola, V, Risch, DR, **Holden, MH**, McDonald‐Madden, E (2022). Unrecognized threat to global soil carbon by a widespread invasive species. [*Global change biology*](https://doi.org/10.1111/gcb.15769), 28(3), 877-882.
   
 + **Holden, MH**, & Lockyer, J (2021). Poacher-population dynamics when legal trade of naturally deceased organisms funds anti-poaching enforcement. [*Journal of Theoretical Biology*](https://www.sciencedirect.com/science/article/pii/S0022519321000400). See free open access preprint [here](https://arxiv.org/ftp/arxiv/papers/2102/2102.11664.pdf)
 
@@ -71,6 +71,6 @@ image:
 ##  Some selected newspaper articles and other popular science pieces written by me
 + We thought we’d find 200 species living in our house and yard. We were very wrong. [*The Conversation*](https://theconversation.com/we-thought-wed-find-200-species-living-in-our-house-and-yard-we-were-very-wrong-217082). 2023.
 
-+ **Holden, M.H.**. (2016). Robots vs. Environmental Managers.  [*Decision Point*](http://decision-point.com.au/article/robots-vs-environmental-managers/). 95:8.
++ Robots vs. Environmental Managers.  [*Decision Point*](http://decision-point.com.au/article/robots-vs-environmental-managers/). 2016. 95:8.
 
-+ **Holden, M.H.**. (2016). EcoLogic: Can automated algorithms do better than humans in conservation games.  [*Australasian Science*](http://www.australasianscience.com.au/article/issue-julyaugust-2016/%E2%80%9Crobots%E2%80%9D-vs-environmental-managers.html).
++ EcoLogic: Can automated algorithms do better than humans in conservation games.  [*Australasian Science*](http://www.australasianscience.com.au/article/issue-julyaugust-2016/%E2%80%9Crobots%E2%80%9D-vs-environmental-managers.html). 2016.
