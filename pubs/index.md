@@ -10,6 +10,12 @@ image:
 ---
 
 ##  Selected Publications (Complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZxTK7cAAAAAJ))
+
+
++ Erm, P, Balmford, Krueck, Takashina, **Holden, MH**. (2024). Marine protected areas can benefit biodiversity even when bycatch species only partially overlap fisheries [*Journal of Applied Ecology*](https://doi.org/10.1111/1365-2664.14595).
+  
++ Timms, L, **Holden, MH**. (2024). Optimizing protected area expansion and enforcement to conserve exploited species. [*Biological Conservation*](https://doi.org/10.1016/j.biocon.2024.110463).
+
 + Filar, JA, **Holden, MH**, Mendiolar, M, Streipert, SH (2024). Overcoming the impossibility of age-balanced harvest. [*Mathematical Biosciences*](https://doi.org/10.1016/j.mbs.2023.109111), 367, 109111.
 
 + Rogers, AM, Yong, RQY, **Holden, MH** (2023). The house of a thousand species: The untapped potential of comprehensive biodiversity censuses of urban properties. [*Ecology*](https://doi.org/10.1002/ecy.4225), e4225.
