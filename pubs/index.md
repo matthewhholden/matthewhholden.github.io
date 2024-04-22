@@ -11,7 +11,7 @@ image:
 
 ##  Selected Publications (Complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZxTK7cAAAAAJ))
 
-+ **Holden, MH**, Plagányi, EE, Fulton, EA, Campbell, AB, Janes, R, Lovett, RA, Wickens, M, Adams, MP, Botelho, LL, Dichmont, CM and Erm, Helmstedt, K, Heneghan, R, Mendiolar, Richardson, A, Rogers, J, Saunders, K, M, Timms, L. (2024). Cost-benefit analysis of ecosystem modeling to support fisheries management. [*Journal of Fish Biology*](https://doi.org/10.1111/jfb.15741). Free open access version at (https://arxiv.org/abs/2403.17446)[*arXiv*]
++ **Holden, MH**, Plagányi, EE, Fulton, EA, Campbell, AB, Janes, R, Lovett, RA, Wickens, M, Adams, MP, Botelho, LL, Dichmont, CM and Erm, Helmstedt, K, Heneghan, R, Mendiolar, Richardson, A, Rogers, J, Saunders, K, M, Timms, L. (2024). Cost-benefit analysis of ecosystem modeling to support fisheries management. [*Journal of Fish Biology*](https://doi.org/10.1111/jfb.15741). Free open access version at [*arXiv*](https://arxiv.org/abs/2403.17446).
 
 + Erm, P, Balmford, Krueck, Takashina, **Holden, MH**. (2024). Marine protected areas can benefit biodiversity even when bycatch species only partially overlap fisheries [*Journal of Applied Ecology*](https://doi.org/10.1111/1365-2664.14595).
   
