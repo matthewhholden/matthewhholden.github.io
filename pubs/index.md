@@ -11,6 +11,10 @@ image:
 
 ##  Selected Publications (Complete list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZxTK7cAAAAAJ))
 
++ **Holden, MH**, MD Akinlotan, AD Binley, FHT Cho, KJ Helmstedt, and I Chadès. (2024). Why shouldn't I collect more data? Reconciling disagreements between intuition and value of information analyses. [*Methods in Ecology and Evolution*](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14391).
+
++ Cattoni, V, LF South, DJ Warne, C Boettiger, B Thakran, and **MH Holden**. (2024). Revisiting Fishery Sustainability Targets. [*Bulletin of Mathematical Biology*](https://doi.org/10.1007/s11538-024-01352-7).
+
 + **Holden, MH**, Plagányi, EE, Fulton, EA, Campbell, AB, Janes, R, Lovett, RA, Wickens, M, Adams, MP, Botelho, LL, Dichmont, CM and Erm, Helmstedt, K, Heneghan, R, Mendiolar, Richardson, A, Rogers, J, Saunders, K, M, Timms, L. (2024). Cost-benefit analysis of ecosystem modeling to support fisheries management. [*Journal of Fish Biology*](https://doi.org/10.1111/jfb.15741). Free open access version at [*arXiv*](https://arxiv.org/abs/2403.17446).
 
 + Erm, P, Balmford, Krueck, Takashina, **Holden, MH**. (2024). Marine protected areas can benefit biodiversity even when bycatch species only partially overlap fisheries [*Journal of Applied Ecology*](https://doi.org/10.1111/1365-2664.14595).
